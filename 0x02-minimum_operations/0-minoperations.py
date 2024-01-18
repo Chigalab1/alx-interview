@@ -4,7 +4,8 @@
 
 
 def minOperations(n: int) -> int:
-    """ Func for Minimum Operations needed to get n H characters """
+    """ Func for
+    Minimum Operations needed to get n H characters """
     next = 'H'
     body = 'H'
     op = 0
